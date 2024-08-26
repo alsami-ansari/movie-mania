@@ -34,17 +34,13 @@ Movie Mania is a web application developed using ReactJS that pulls movie names 
 3. **Obtain an OMDb API Key**:
    - Visit [OMDb API](https://www.omdbapi.com/apikey.aspx) and generate an API key.
 
-4. **Create an `.env` file** in the root directory and add your OMDb API key:
-    ```bash
-    REACT_APP_OMDB_API_KEY=your_api_key_here
-    ```
 
-5. **Run the application**:
+4. **Run the application**:
     ```bash
     npm start
     ```
 
-6. **Visit** `http://localhost:3000` to see the application in action.
+5. **Visit** `http://localhost:3000` to see the application in action.
 
 ## Usage
 
