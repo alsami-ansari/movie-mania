@@ -3,6 +3,10 @@
 Movie Mania is a web application developed using ReactJS that pulls movie names randomly from the OMDb API and fetches detailed movie information. The app is designed to provide users with an easy way to discover movies and get relevant information such as plot, ratings, and more.
 
 
+
+[Checkout](https://movie-mania-2024.netlify.app/)
+
+
 ![](https://github.com/samiansari01/movie-mania/blob/2f130d695c722a37884bb3022d8b6856640eb73e/Screenshot.png)
 
 
