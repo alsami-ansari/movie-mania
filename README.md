@@ -26,7 +26,7 @@ Checkout :-[https://movie-mania-2024.netlify.app/](https://movie-mania-2024.netl
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/samiansari01/movie-mania.git
+    git clone https://github.com/alsami-ansari/movie-mania.git
     cd movie-mania
     ```
 
